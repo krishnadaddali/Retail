@@ -22,4 +22,9 @@ public class LoginPage {
 
 	}
 
+	public void message() {
+		System.out.println("User enter all charecters must be small letters");
+
+	}
+
 }
