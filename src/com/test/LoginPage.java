@@ -17,4 +17,9 @@ public class LoginPage {
 
 	}
 
+	public void show() {
+		System.out.println("login Failled");
+
+	}
+
 }
