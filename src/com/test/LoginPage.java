@@ -27,4 +27,9 @@ public class LoginPage {
 
 	}
 
+	public void msg() {
+		System.out.println("Enter a msg for Male/female");
+
+	}
+
 }
